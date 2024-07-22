@@ -237,7 +237,7 @@ Follow these steps to help moderate uploaded content:
 
 1. First, you will need to set up an account at [thehive.ai](https://thehive.ai/).
 1. Create a project
-1. Get the API key for your prject
+1. Get the API key for your project
 
 When the Slackbot Moderator message gets posted to slack, it will now include a section titled "Moderation score (hive)" with 2 dimensions:
 
